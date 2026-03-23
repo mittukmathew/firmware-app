@@ -2,6 +2,7 @@
 
 ## Requirements
 - PHP 8.0+
+- npm
 - MySQL
 - Composer
 
@@ -24,7 +25,7 @@ php -S 127.0.0.1:8000 -t public
 
 ## Admin Panel
 http://127.0.0.1:8000/admin
-## customer versin download
+## customer version download
 http://127.0.0.1:8000
 ## API
 POST /api/software-download
