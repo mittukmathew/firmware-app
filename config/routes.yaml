@@ -1,0 +1,8 @@
+home:
+    path: /
+    controller: App\Controller\ApiController::index
+
+api_software_download:
+    path: /api/software-download
+    controller: App\Controller\ConnectedSiteController::softwareDownload
+    methods: [POST]
